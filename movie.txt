@@ -1,4 +1,16 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 housefull
 uri
 hancock
 Dangal
+=======
+Housefull
+Uri
+Hancock
+>>>>>>> Stashed changes
+=======
+Housefull
+Uri
+Hancock
+>>>>>>> Stashed changes

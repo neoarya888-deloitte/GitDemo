@@ -1,4 +1,12 @@
 Ranbir Kapoor
 Ranveer Singh
 Akshay Kumar
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 SRK
+=======
+Karthik Aryan
+>>>>>>> Stashed changes
+=======
+Karthik Aryan
+>>>>>>> Stashed changes
